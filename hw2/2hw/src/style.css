@@ -1,0 +1,42 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url('./img/mainImg.jpg');
+    background-size: cover;
+
+}
+
+
+.form input{
+    width: 80%;
+    padding: 10px;
+}
+.form button{
+    width: 20%;
+    padding: 10px;
+}
+
+
+.name{
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+    color: white;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+
+td{
+    border: 5px solid white;
+    padding: 10px;
+
+}
+.wrapper{
+    width: 400px;
+    margin: 150px auto;
+}
